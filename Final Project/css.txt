@@ -1,0 +1,60 @@
+h1{
+  color: darkslateblue;
+  text-align: center;
+  font-family: cursive;
+  font-size: 34px;
+}
+h2 {
+  color: darkslateblue;
+  text-align: left;
+  font-family: cursive;
+  font-size: 24px;
+}
+h3 {
+  color: darkslateblue;
+  text-align: left;
+  font-family: cursive;
+  font-size: 24px;
+}
+h4 {
+  color: darkslateblue;
+  text-align: left;
+  font-family: cursive;
+  font-size: 24px;
+}
+p {
+  color: darkslateblue;  
+  text-align: left;
+  font-family: cursive;
+  font-size: 14px;
+}
+p1 {
+  color: darkslateblue;  
+  text-align: left;
+  font-family: cursive;
+  font-size: 16px;
+}
+p2 {
+  color: darkslateblue;  
+  text-align: left;
+  font-family: cursive;
+  font-size: 14px;
+}
+p4 {
+  color: darkslateblue;  
+  text-align: left;
+  font-family: cursive;
+  font-size: 14px;
+}
+p5 {
+  color: darkslateblue;  
+  text-align: left;
+  font-family: cursive;
+  font-size: 14px;
+}
+li{
+  color: darkslateblue;  
+  text-align: left;
+  font-family: cursive;
+  font-size: 14px;
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>How to Make Resin Jewelry</title>
+  </head>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>How to Guide</h1>
+    <a href="index.html">Home</a>
+    <h2>Our weekly spotlight How to Guide this week is featuring resin jewelry making</h2>
+    <p> Please work in a ventilated space with mask and gloves. Resin is a chemical and should not be done without an adult. <p>
+    <h2>Supplies Needed</h2>
+    <ul>
+      <li>Gloves</li>
+      <li>Mask</li>
+      <li>Plastic Cups</li>
+      <li>Plastic Spoon</li>
+      <li>Sprinkles/ Or anything to put inside the resin</li>
+      <li>Resin Kit</li>
+      <li>Silicone Molds</li>
+      <li>Non-Stick Spray for Molds</li>
+      <li>Jewelry Glue</li>
+      <li>Ring Blanks</li>
+    </ul>
+    <h2>Directions</h2>
+    <ul>
+      <li>Lay out clean molds on a flat surface that you can let dry in place for 24 hours. </li>
+      <li>Spray molds with non-stick spray for molds. </li>
+      <li>Mix resin with stabilizer first then harder in equal parts in a plastic cup, set timer to mix for 2 minutes with your plastic spoon.</li>
+      <li>Transfer the resin into a second cup and mix for another minute.</li>	
+      <li>Mix in your sprinkles until the mix is full (you don’t have resin as a top layer as the sprinkles sink down into the cup) </li>	
+      <li>Pour resin mixture into molds until the mold is full, if anything is overflowing scape it off the top of the mold.</li>	
+      <li>Let sit for 25 hours, then remove from mold (use gloves). If the item have any excess around them trim and file the excess off. If the resin is still soft let it sit for longer until it is dry. Once it is 100% dry you can handle it without gloves as you will no longer leave finger prints on it.</li>	
+      <li>Once the resin piece is ready simply glue the ring blank to the back of the resin mold and let dry.</li>	
+      <li>Enjoy your new ring.</li>	
+    </ul>
+  </body>
+</html>
+<!DOCTYPE html> 
+<html> 
+  <head>
+  </head>
+  <body>
+ 
+    <h3>Sprinkle Rings</h3> 
+    <img src="ring.jpg" 
+         alt="Sprinkle Ring"> 
+
+    <h3>Sprinkle Earrings</h3> 
+    <img src="earrings.jpg" 
+         alt="Sprinkle Earrings"> 
+    <p>Source: HaydenKinley.com</p>
+    <a href="index.html">Home</a>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <p> </p>
+    <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+  </body> 
+</html>

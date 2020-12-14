@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Young Entrepreneurs United</title>
+  </head>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Welcome to Young Entrepreneurs United!</h1>
+    <h2>This is a space to share out knowledge and learn from other young entrepreneurs.</h2>
+    <p>We are so happy you are here. If you have a topic you would like to teach other young entrpreneurs please reach out directly to us. <p>
+    <p> If you are a here to learn we hope to be a invaluable tool for you.</p>
+    <h2>Weekly Spotlight</h2>
+    <h3>HaydenKinley.com</h3> 
+    <img src="Logo.png" 
+         alt="Logog"> 
+    <p>Hayden Kinley Ray- Owner of Hayden Kinley Shoppe</p>
+    <P>Hi, I am a seven year old entrepreneur. As this is my first year in business I am going to talk to you today about getting started, sometimes that’s the hardest part. One major key to business is establishing your brand. What look and feel you want for your business. My favorite color is teal and I knew I wanted it to be a large part of my brand so I designed by packaging, business cards and touches of my website all with teal in them. I have a jewelry line that is made out of sprinkles so it is very colorful and will go with just about anything. With this I wanted more of a professional look for the site as the product is very eye catching and mostly statement pieces. I try and add teal touches everywhere I can without it being overpowering. As I grow the business I will venture into more product lines and I will keep the same branding as I grow and expand. Keeping a consistent branding where someone can recognize your work is key when it comes to a growing brand. I hope this was helpful today as you are growing your brand and I am so excited you are here. You are going to do great!   
+      <h2>Homework</h2>
+      <p>My top three takeaway’s for establishing a brand:</p>
+      <ul>
+        <li>Keep it consistent</li>
+        <li>Plan a brand image that can grow with your business</li>
+        <li>Use a brand image and color chart every chance you get</li>
+      </ul>
+      <h2>Check Out the How to Guide to Make this Ring</h2>
+      <a href="new-1.html">How To Guide</a>
+      <p> </p>
+      <img src="Set.jpg" 
+           alt="Set"> 
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+      </body>
+    </html>
